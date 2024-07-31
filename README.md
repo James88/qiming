@@ -1,19 +1,19 @@
 
-## 一些代码来自好好起名(Name)：https://github.com/JakLiao/GoodGoodName
-### 扩展功能
-1 、可以按 简体笔画和繁体字笔画计算三才五格，输入 五行 生成名字，代码参考2genereate_name.py
-生成html文件，可以在浏览器中查看
-2、根据声调，指定一些声调，从给定的名字列表中筛选处符合指定读音组合的名字 参考3analysis_name.py
-3、根据批量提供的名字 输出 繁体 简历名字对应的三才五格 参考：4check_sancai_wuge.py
-4、随机选名字 参考5get-by-god.py
-### data目录数据说明
-xinhua.csv 新华字典 带偏旁、笔画、拼音 
-wuxing_dict_fanti.json  汉字按照 五行 繁体笔画 进行排列
-wuxing_dict_jianti.json 案子按照五行 简体笔画 进行排列
-word.json 汉字全量
-sancai.txt  不同三才组合的吉凶判定
+## 一些代码来自好好起名(Name)：https://github.com/JakLiao/GoodGoodName  
+### 扩展功能  
+1 、可以按 简体笔画和繁体字笔画计算三才五格，输入 五行 生成名字，代码参考2genereate_name.py  
+生成html文件，可以在浏览器中查看  
+2、根据声调，指定一些声调，从给定的名字列表中筛选处符合指定读音组合的名字 参考3analysis_name.py  
+3、根据批量提供的名字 输出 繁体 简历名字对应的三才五格 参考：4check_sancai_wuge.py  
+4、随机选名字 参考5get-by-god.py  
+### data目录数据说明 
+xinhua.csv 新华字典 带偏旁、笔画、拼音  
+wuxing_dict_fanti.json  汉字按照 五行 繁体笔画 进行排列  
+wuxing_dict_jianti.json 案子按照五行 简体笔画 进行排列  
+word.json 汉字全量  
+sancai.txt  不同三才组合的吉凶判定  
 
-更多内容请自行通过代码探索，如果对你有帮助欢迎star
+#### 更多内容请自行通过代码探索，如果对你有帮助欢迎star
 
 
 ## 以下内容来自 好起名(Name) 的说明文档
